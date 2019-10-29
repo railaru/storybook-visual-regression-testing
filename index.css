@@ -12,6 +12,7 @@ a {
   width: 300px;
   display: block;
   position: relative;
+  background: red;
 }
 .card__img {
   height: 140px;
