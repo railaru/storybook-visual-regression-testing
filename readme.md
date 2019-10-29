@@ -1,5 +1,5 @@
 ## Storybook:
-![alt text](https://i.ibb.co/WPnjdyv/Screenshot-2019-10-29-at-14-57-17.png "")
+![alt text](https://i.ibb.co/9ppkqcR/Screenshot-2019-10-29-at-15-02-46.png "")
 
 ## Backstop.js Diff:
 
