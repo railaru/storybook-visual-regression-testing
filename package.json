@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "jest:integration": "jest -c integration/jest.config.js",
-    "test:integration": "start-server-and-test storybook http-get://localhost:9009 jest:integration",
     "storybook": "start-storybook -p 5001 -s public"
   },
   "keywords": [],
@@ -13,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@storybook/addon-storyshots": "^5.2.5",
-    "jest-image-snapshot": "^2.11.0",
-    "jest-puppeteer": "^4.3.0",
     "puppeteer": "^2.0.0",
     "start-server-and-test": "^1.10.6"
   },
