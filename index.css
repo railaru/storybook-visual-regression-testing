@@ -11,12 +11,7 @@ a {
   transition: 0.4s;
   width: 300px;
   display: block;
-  position: relative;
-}
-@media (min-width: 600px) {
-  .card {
-    padding-bottom: 10px;
-  }
+  position: relative;  
 }
 .card__img {
   height: 140px;
