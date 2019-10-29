@@ -10,6 +10,11 @@
       "label": "tablet",
       "width": 1024,
       "height": 768
+    },
+    {
+      "label": "laptop",
+      "width": 1280,
+      "height": 800
     }
   ],
   "onBeforeScript": "puppet/onBefore.js",

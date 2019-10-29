@@ -12,4 +12,5 @@ _Note: installing pupeteer sometimes requires admin & network permissions_
   
 ## Run visual regression tests:
 `$ npm run storybook`  
-`$ backstop test`
+`$ backstop test` - to run visual test
+`$ backstop approve` - to approve a change to be used as a reference
