@@ -1,6 +1,9 @@
+## Storybook:
+![alt text](https://i.ibb.co/WPnjdyv/Screenshot-2019-10-29-at-14-57-17.png "")
+
+## Backstop.js Diff:
+
 ![alt text](https://i.ibb.co/qjLJHXT/Screenshot-2019-10-29-at-14-39-09.png "")
-
-
 
 ## Install:
 
