@@ -11,8 +11,9 @@ a {
   transition: 0.4s;
   width: 300px;
   display: block;
-  position: relative;  
+  position: relative;    
 }
+
 .card__img {
   height: 140px;
   background: center/cover no-repeat;
